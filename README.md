@@ -1,5 +1,4 @@
 # Projet Career Map 
-![logo](Front-end/public/images/logo.png)
 
 Notre projet porte sur le MBTI, permettant aux étudiants d'explorer différents types de MBTI, de mieux comprendre leur personnalité et de découvrir les carrières qui leur correspondent grâce à un test.
 
